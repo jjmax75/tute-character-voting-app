@@ -24,7 +24,10 @@
     "node": "4.4.0"
   },
   "babel": {
-    "presets": ["es2015", "react"]
+    "presets": [
+      "es2015",
+      "react"
+    ]
   },
   "author": "Sean Behan <behanj@gmail.com> (http://boxitoff.com)",
   "license": "MIT",
@@ -36,9 +39,11 @@
     "alt": "0.18.2",
     "async": "2.0.0-rc.1",
     "body-parser": "1.15.0",
+    "bower": "1.7.7",
     "colors": "1.1.2",
     "compression": "1.6.1",
     "express": "4.13.4",
+    "gulp": "3.9.1",
     "history": "2.0.1",
     "mongoose": "4.4.8",
     "morgan": "1.7.0",
